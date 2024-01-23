@@ -2,7 +2,7 @@
 **	Project: Dynamic Sequence
 **  Programmer: Sheldon Strebe
 **  Course:		cs2420
-**	Data:		August 14, 2018
+**	Data:		August 14, 2019
 **
 **	I certify that I wrote all code in this project except that which was
 **	provided by the instructor.

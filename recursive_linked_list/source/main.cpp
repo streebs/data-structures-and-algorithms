@@ -2,7 +2,7 @@
 **	Project: Recursive List
 **  Programmer: Sheldon Strebe
 **  Course:		cs2420
-**	Data:		August 27, 2018
+**	Data:		August 27, 2019
 **
 **	I certify that I wrote all code in this project except that which was
 **	provided by the instructor.
