@@ -4,7 +4,7 @@ I wanted to put this repo together because I love data structures & algorithms! 
 
 ---
 
-Each directory contains a different project from my Sophomore Data Structures & Algorithms class in college. Each project contains the source code an executable and a readme for some notes about the project. 
+Each directory contains a different project from my Sophomore Data Structures & Algorithms class in college. Each project contains the source code, an executable, and a readme for some notes about the project. 
 
 For example
 
