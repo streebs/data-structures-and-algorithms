@@ -1,10 +1,8 @@
 # Searching
 
-Here is a program that implements multiple searching algorithms in a sorted array
-
 ### Overview 
 
-This program implements 3 searching algorithms runs each algorithm 4 times. 1 search for a value at the beginning, middle, and end of the array. 3 addition searches for values not in the arrays. 12 searches in total. each search is timed and the duration is printed.
+This program that implements multiple searching algorithms in a sorted array. This program implements 3 searching algorithms runs each algorithm 4 times. 1 search for a value at the beginning, middle, and end of the array. 3 addition searches for values not in the arrays. 12 searches in total. each search is timed and the duration is printed.
 
 ### Searching Algorithms and Speed
 
@@ -28,8 +26,8 @@ iterative binary search(not in array): 853ns
 recursive binary search(not in array): 498ns
 ```
 
-# Run This Program
-This program has been compiled on a linux os for x86 architecture. The executable is located in this directory as dynarray.exe you can run it with the following command:
+### Run This Program
+This program has been compiled on a linux os for x86 architecture. The executable is located in this directory as search.exe you can run it with the following command:
 ```sh
 ./searching/search.exe
 ```
